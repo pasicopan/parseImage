@@ -24,7 +24,7 @@
 
 ![运行parseImage.js 之后](http://raw.github.com/pasicopan/parseImage/master/screenshot/5.jpeg "运行parseImage.js 之后")
 
-还有这些！可以方便复制粘贴的html 和css 代码！
+还有这些带坐标尺寸的html 和css 代码！
 
 ![html代码](http://raw.github.com/pasicopan/parseImage/master/screenshot/6.jpeg "html代码")
 
