@@ -3,7 +3,7 @@ var fs = require('fs'),
     PNG = require('pngjs').PNG;
 
 // 图片目录
-var imagePath = 'p1';
+var imagePath = 'img';
 // 重命名图片的前缀
 var pre = imagePath+'-';
 var outputHTMLFilePath = 'data.html';
